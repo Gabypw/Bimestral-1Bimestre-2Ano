@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-image: url("/pw/img/callof.png.png");
+    background-image: url(/img/callof.png.png);
     background-size: cover;
     color: rgb(255, 255, 255);
     padding: 20px;
@@ -54,7 +54,7 @@ nav ul li a {
     transition: 0.7s;
 }
 #callof:hover{
-    background-image: url(/pw/img/gof2.png);
+    background-image: url(/img/gof2.png);
 }
 a{
     text-decoration: none;
@@ -79,7 +79,7 @@ a{
     color: white;
 }
 #godof{
-    background-image: url(/pw/img/gof2.png);
+    background-image: url(/img/gof2.png);
 }
 #a1:hover{
     color: red;
@@ -88,7 +88,7 @@ a{
     transition: 0.7s;
 }
 #spider{
-    background-image: url(/pw/img/spider.png);
+    background-image: url(/img/spider.png);
     background-size: cover;
 }
 #a2:hover{
@@ -97,7 +97,7 @@ a{
     transition: 0.7s;
 }
 #assassin{
-    background-image: url(/pw/img/acreed.png);
+    background-image: url(/img/acreed.png);
     background-size:contain;
 }
 #a3:hover{
@@ -106,7 +106,7 @@ a{
     transition: 0.7s;
 }
 #mine{
-    background-image: url(/pw/img/mine.png);
+    background-image: url(/img/mine.png);
 }
 #a4:hover{
     color: springgreen;
@@ -114,7 +114,7 @@ a{
     transition: 0.7s;
 }
 #ea{
-    background-image: url(/pw/img/fc25.png);
+    background-image: url(/img/fc25.png);
 }
 #a5{
     color: white;
@@ -140,7 +140,7 @@ a{
     border: 2px solid #333;
 }
 #maycry{
-    background-image: url(/pw/img/dv_may5.png);
+    background-image: url(/img/dv_may5.png);
     background-size: cover;
 }
 #a11:hover{
@@ -149,7 +149,7 @@ a{
     transition: 0.7s;
 }
 #mk1{
-    background-image: url(/pw/img/mk1.png);
+    background-image: url(/img/mk1.png);
     background-size: cover;
 }
 a{
@@ -161,7 +161,7 @@ a{
     transition: 0.7s;
 }
 #gta5{
-    background-image: url(/pw/img/gt5.png);
+    background-image: url(/img/gt5.png);
     background-size: cover;
 }
 #a33{
@@ -173,7 +173,7 @@ a{
     transition: 0.7s;
 }
 #calld{
-    background-image: url(/pw/img/bops.png);
+    background-image: url(/img/bops.png);
     background-size: cover;
 }
 #a44{
@@ -184,7 +184,7 @@ a{
     background-color:#333;
 }
 #unity{
-    background-image: url(/pw/img/aunity.png);
+    background-image: url(/img/aunity.png);
     background-size: cover;
 }
 #a55:hover{
